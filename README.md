@@ -1,7 +1,7 @@
 # RSA Encryption
 RSA Encryption Algorithm implementation in Java.
 
-# Implemented:
+## Implemented:
 - Key Generation.
 - String Encryption.
 - String Decryption.
