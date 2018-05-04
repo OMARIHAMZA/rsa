@@ -1,10 +1,10 @@
 # RSA Encryption
 RSA Encryption Algorithm Implemented in C#.
 
-# Implemented:
+## Implemented:
 - String Encryption.
 - String Decryption.
-# Todo:
+## Todo:
 - Key Generation.
 
-### MHD HAMZA AL OMARI
+#### MHD HAMZA AL OMARI
