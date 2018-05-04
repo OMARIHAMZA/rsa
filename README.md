@@ -1,5 +1,5 @@
 # RSA Encryption
-RSA Encryption Alogrithm Implemented in C#.
+RSA Encryption Algorithm Implemented in C#.
 
 # Implemented:
 - String Encryption.
